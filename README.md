@@ -100,7 +100,7 @@ onde:
 
 # 3
 
-![grafico](../estatistica/markdown/image.png)
+![grafico](./markdown/image.png)
 
 # 4
 
@@ -112,14 +112,14 @@ A reta de regressão é dada pela equação:
 
 $$ y = {interceptqv preco} + slopeqvpreco \cdot x $$
 
-![grafico](../estatistica/markdown/qtdvendaxlucro.png)
+![grafico](./markdown/qtdvendaxlucro.png)
 
 ### 2. Quantidade Vendida vs. Lucro
 
 A reta de regressão é dada pela equação:
 $$y = intercept qv lucro + slope qv lucro \cdot x $$
 
-![grafico](../estatistica/markdown/vendidaxpreco.png)
+![grafico](./markdown/vendidaxpreco.png)
 
 ### 3. Preço vs. Lucro
 
@@ -127,7 +127,7 @@ A reta de regressão é dada pela equação:
 
 \[ $$y = intercept\_preco\_lucro + {slope\_preco\_lucro} \cdot x$$ \]
 
-![grafico](../estatistica/markdown/precoxlucro.png)
+![grafico](./markdown/precoxlucro.png)
 
 # 5
 
