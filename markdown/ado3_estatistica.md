@@ -100,7 +100,7 @@ onde:
 
 # 3
 
-![a](../image.png)
+![a](../markdown/image.png)
 
 # 4
 
